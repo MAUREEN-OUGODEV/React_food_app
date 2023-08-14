@@ -1,0 +1,12 @@
+.navbar{
+    margin-top: 3%;
+    font-size: 30px;
+}
+.navbar a{
+   color: brown;
+   font-size: 25px;
+}
+
+#login{
+    border-radius: 20px;
+}

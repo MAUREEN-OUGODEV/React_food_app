@@ -1,0 +1,34 @@
+.fast{
+    background-color: rgb(162, 175, 185);
+    border-radius: 20px;
+    
+}
+#check{
+    height: 20px;
+}
+i{
+    height: 50px;
+}
+.mainTwo{
+    margin-top: 5%;
+}
+.best{
+    font-size: 70px;
+}
+.deliy{
+    color: rgb(223, 89, 89);
+}
+.here p{
+    font-size: 25px;
+}
+.mainThree{
+    margin-top: 5%;
+    margin-left: 10%;
+}
+.burger img{
+    height: 300px;
+}
+.burger button{
+    margin-left: 10%;
+    color: rgb(197, 67, 67);
+}

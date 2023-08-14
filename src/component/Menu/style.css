@@ -1,0 +1,26 @@
+.menu-regular{
+    margin-top: 5%;
+}
+.menu h1{
+    font-size: 60px;
+}
+.Regular{
+    color: rgb(204, 83, 83);
+}
+.offer img{
+    margin-left: 20%;
+}
+.sample-menu{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin-top: 5%;
+}
+.product-image{
+    height: 300px;
+    width: 300px;
+    border: 15px solid orange;
+    border-radius: 200px;
+}
+.product-button{
+    
+}
